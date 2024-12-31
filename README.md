@@ -6,7 +6,7 @@
 http://robo-takao.jp/NX24/e/index.html
 
 [Movie]  
-[https://youtu.be/lgQTTmdJifQ](https://youtu.be/rR1G2fjKznk?si=v_UU0EfXKI9O3Kt_)
+https://youtu.be/rR1G2fjKznk?si=v_UU0EfXKI9O3Kt_
 
 [Components]  
 1)M5 Capsule  
