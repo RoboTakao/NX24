@@ -1,6 +1,6 @@
 # NX24
 
-![image](NX24_1.jpg)
+![image](NX24_01.jpg)
 
 [Summary]
 http://robo-takao.jp/NX24/e/index.html
@@ -14,10 +14,10 @@ https://youtu.be/lgQTTmdJifQ
 3)OLED SSD1306 128x64  
 
 [Connection]  
-![image](NX24_3.jpg)
+![image](NX24_03.jpg)
 
 [3D model]  
-![image](NX24_2.jpg)
+![image](NX24_02.jpg)
 
 [Code]  
 M5Capsule
